@@ -2,6 +2,6 @@
 <item>
     <version>2.0.1.1</version>
     <url>https://github.com/gninraw/RFIDGATE/releases/download/2.0.1.1/GATE.zip</url>
-    <changelog>https://raw.githubusercontent.com/gninraw/RFIDGATE/master/KOLONGATE/release</changelog>
+    <changelog>https://github.com/gninraw/RFIDGATE/releases</changelog>
     <mandatory>false</mandatory>
 </item>

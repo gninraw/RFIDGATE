@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.1.0</version>
-    <url>https://github.com/rubyon/zsupport/releases/download/1.0.7.2/ZSupport.zip</url>
-    <changelog>https://github.com/rubyon/ZSupport/releases</changelog>
+    <version>2.0.1.1</version>
+    <url>https://raw.githubusercontent.com/gninraw/RFIDGATE/master/KOLONGATE/2.0.1.1/GATE.zip</url>
+    <changelog>https://raw.githubusercontent.com/gninraw/RFIDGATE/master/KOLONGATE/release</changelog>
     <mandatory>false</mandatory>
 </item>
